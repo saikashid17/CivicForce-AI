@@ -1,0 +1,6 @@
+{
+  "name": "CivicOS",
+  "description": "AI City Operating System — a professional decision-support platform for citizens and municipal authorities.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
